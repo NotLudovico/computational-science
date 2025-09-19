@@ -8,4 +8,6 @@ dependencies = [
     "marimo>=0.16.0",
     "matplotlib>=3.10.6",
     "numpy>=2.3.3",
+    "ruff>=0.13.1",
+    "scikit-learn>=1.7.2",
 ]
